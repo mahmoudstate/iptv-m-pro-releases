@@ -1,6 +1,6 @@
 # IPTV M Pro for Windows
 
-Download the installer from the [latest release](../../releases/latest): `IPTV-M-Pro-Setup-1.0.1.exe`.
+Download the installer from the [latest release](../../releases/latest): `IPTV-M-Pro-Setup-1.0.2.exe`.
 
 1. Run the installer. Windows may show "Windows protected your PC" because the installer is not code-signed yet: choose **More info**, then **Run anyway**.
 2. Open **IPTV M Pro** from the Start menu or the desktop.
