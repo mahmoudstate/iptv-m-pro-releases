@@ -6,7 +6,7 @@ IPTV M Pro is a player only. It does not provide any channels, playlists or cont
 
 ## Mac
 
-**[Download IPTV-M-Pro-1.0.2.dmg](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/mac-v1.0.2/IPTV-M-Pro-1.0.2.dmg)**
+**[Download IPTV-M-Pro-1.0.3.dmg](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/mac-v1.0.3/IPTV-M-Pro-1.0.3.dmg)**
 
 1. Open the DMG and drag **IPTV M Pro** to **Applications**.
 2. Open it from Launchpad or Applications.
