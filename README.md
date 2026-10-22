@@ -15,7 +15,7 @@ Signed and notarized by Apple. macOS 13 Ventura or later, Apple silicon and Inte
 
 ## Windows
 
-**[Download IPTV-M-Pro-Setup-1.0.7.exe](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/windows-v1.0.7/IPTV-M-Pro-Setup-1.0.7.exe)**
+**[Download IPTV-M-Pro-Setup-1.0.8.exe](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/windows-v1.0.8/IPTV-M-Pro-Setup-1.0.8.exe)**
 
 1. Run the installer. Windows may show "Windows protected your PC" because the installer is not code-signed yet: choose **More info**, then **Run anyway**.
 2. Open **IPTV M Pro** from the Start menu or the desktop.
