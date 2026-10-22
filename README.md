@@ -1,5 +1,7 @@
 # IPTV M Pro — downloads
 
+**Download page with install steps and help: https://iptv-m-pro-site.vercel.app**
+
 IPTV M Pro is a player only. It does not provide any channels, playlists or content: add your own M3U or Xtream Codes playlist in Settings.
 
 ## Mac
