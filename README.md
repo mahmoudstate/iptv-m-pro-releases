@@ -6,7 +6,7 @@ IPTV M Pro is a player only. It does not provide any channels, playlists or cont
 
 ## Mac
 
-**[Download IPTV-M-Pro-1.0.5.dmg](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/mac-v1.0.5/IPTV-M-Pro-1.0.5.dmg)**
+**[Download IPTV-M-Pro-1.0.6.dmg](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/mac-v1.0.6/IPTV-M-Pro-1.0.6.dmg)**
 
 1. Open the DMG and drag **IPTV M Pro** to **Applications**.
 2. Open it from Launchpad or Applications.
@@ -15,7 +15,7 @@ Signed and notarized by Apple. macOS 13 Ventura or later, Apple silicon and Inte
 
 ## Windows
 
-**[Download IPTV-M-Pro-Setup-1.0.9.exe](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/windows-v1.0.9/IPTV-M-Pro-Setup-1.0.9.exe)**
+**[Download IPTV-M-Pro-Setup-1.0.10.exe](https://github.com/mahmoudstate/iptv-m-pro-releases/releases/download/windows-v1.0.10/IPTV-M-Pro-Setup-1.0.10.exe)**
 
 1. Run the installer. Windows may show "Windows protected your PC" because the installer is not code-signed yet: choose **More info**, then **Run anyway**.
 2. Open **IPTV M Pro** from the Start menu or the desktop.
